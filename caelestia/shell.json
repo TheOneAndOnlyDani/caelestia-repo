@@ -1,0 +1,54 @@
+{
+    "appearance": {
+        "anim": {
+            "durations": {
+                "scale": 1.212712593906511
+            }
+        },
+        "font": {
+            "family": {
+                "mono": "Bitstream Vera Sans Mono",
+                "sans": "Cantarell"
+            }
+        },
+        "transparency": {
+            "base": 0.6810830550918198,
+            "enabled": true,
+            "layers": 0.5566862739983306
+        }
+    },
+    "background": {
+        "desktopClock": {
+            "background": {
+                "enabled": true
+            },
+            "enabled": true,
+            "shadow": {
+                "opacity": 0.8144178700361011
+            }
+        },
+        "visualiser": {
+            "enabled": true,
+            "rounding": 4
+        }
+    },
+    "border": {
+        "rounding": 18,
+        "thickness": 8
+    },
+    "dashboard": {
+        "dragThreshold": 23,
+        "performance": {
+            "showCpu": true
+        }
+    },
+    "utilities": {
+        "toasts": {
+            "nowPlaying": true
+        },
+        "vpn": {
+            "provider": [
+            ]
+        }
+    }
+}
